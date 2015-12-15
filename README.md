@@ -15,3 +15,7 @@ install required tools:
 And then compile the program
 
 > make
+
+To convert your mp3 files to ogg files you can use Audacity
+
+> http://audacity.fr
