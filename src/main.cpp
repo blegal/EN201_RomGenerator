@@ -3,9 +3,8 @@
 // Headers
 ////////////////////////////////////////////////////////////
 #include <sstream>
-#include <string>
+#include <string.h>
 #include <SFML/Audio.hpp>
-#include <SFML/Graphics.hpp>
 
 #include "./vhdl/frozen_bits.h"
 
