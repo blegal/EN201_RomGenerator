@@ -4,8 +4,11 @@ It is the program used to generate ROM files. To use and modify it, you must
 have a Linux / MacOS computer.
 
 Under linux ubuntu makes:
+
 > cd
+
 > git clone https://github.com/blegal/EN201_RomGenerator.git
+
 > cd EN201_RomGenerator
 
 install required tools:
@@ -14,7 +17,8 @@ install required tools:
 
 And then compile the program
 
-> mkdir bin
+> mkdir bin (for a obvious reason, git do not create this empty directory)
+
 > make
 
 To convert your mp3 files to ogg files you can use Audacity
