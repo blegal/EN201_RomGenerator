@@ -14,6 +14,7 @@ install required tools:
 
 And then compile the program
 
+> mkdir bin
 > make
 
 To convert your mp3 files to ogg files you can use Audacity
